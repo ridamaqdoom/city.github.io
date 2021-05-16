@@ -1,0 +1,13 @@
+html {
+    background-color: rgb(100, 57, 228);
+}
+
+
+body {
+    background-color: blue;
+}
+.heading {
+    background-color: aliceblue;
+    font-size: medium;
+    text-align: center;
+}

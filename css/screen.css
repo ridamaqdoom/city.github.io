@@ -1,0 +1,126 @@
+.heading {
+
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 50px;
+  line-height: 1.1;
+  color: #fff;
+  box-sizing: border-box;
+  padding-top: 280px;
+  padding-left: 70px;
+  position: relative;
+  margin-bottom: 0%;
+  
+
+
+
+}
+
+.para {
+    text-align: left;
+    text-decoration: solid black;
+    padding-top: 0%;
+    font-size: 25px;
+    line-height: 0%;
+    list-style: upper-roman;
+    padding-left: 10px;
+    font-style: italic;
+}
+.container {
+       background-image: url(../images/nature.jpg);
+       background-repeat: no-repeat;
+      background-size: cover;
+       background-position:center;
+       margin-bottom: 0%;
+       height: 560px;
+       
+}
+.paras {
+  padding-top: 40px;
+  margin: 0%;
+  text-align: center;
+  color: black;
+   font-size: 40px;
+   font-family:inherit;
+   font-style: italic;
+   background-color: rgba(182, 179, 179, 0.308);
+   
+  
+}
+h6{
+  font-size: 24px;
+  text-align: left;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  line-height: 0%;
+}
+.para-1 , .para-2 , .para-3 , .para-4 {
+  text-align: left;
+  font-size: 15px;
+  font-style: normal;
+  padding-top: 2px;
+
+}
+
+.foot {
+  border-top: 2px solid black;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+  font-style: normal;
+  font-size: 20px;
+  background-color: rgba(245, 245, 245, 0.712);
+  background-size: contain;
+
+  
+}
+h4 {
+  color:black;
+  margin-top: 0%;
+  text-align: center ;
+  font-size: 55px;
+  font-style: normal;
+  font-family: 'Times New Roman', Times, serif;
+  padding-left: 250PX;
+  padding-right: 250PX;
+  
+}
+
+.links {
+  margin-top: 20px;
+ text-decoration: none;
+ font-size: 18px;
+ margin: 0;
+}
+ 
+   
+.links ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.links li {
+  list-style: none;
+  float: left;
+  margin-right: 5px;
+ padding-bottom: 30px;  
+ padding-top: 12px;
+}
+
+.links a {
+  display: block;
+  color: #fff;
+  list-style: none;
+  padding: 30px 20px;
+ font-size: 25px;
+ font-style: normal;
+ font-family: 'Times New Roman', Times, serif;
+  transition-property: color, background-color;
+  transition-duration: 2s;
+  padding-bottom:30px;
+  padding-left: 65px;
+}
+.links a:hover {
+  background-color: aqua;
+  cursor: pointer;
+}
